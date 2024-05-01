@@ -1,3 +1,9 @@
+# User Spesific
+.venv
+.other_libraries
+.vscode
+build
+
 # Prerequisites
 *.d
 
